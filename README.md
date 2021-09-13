@@ -40,7 +40,11 @@ ng --version
 
 ### criar projeto 
 ng new client-room
+-----------------------------------------------------------------------------------------------------------
 
+Projeto desenvolvido na diolive.
+
+Aula por Kamila Santos
 
 
 
